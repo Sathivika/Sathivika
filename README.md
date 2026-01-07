@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE359&background=CAFF8D00&width=435&lines=Hi%2C+I'm+Sathivika+Pittala)](https://git.io/typing-svg)
 
 <!--
