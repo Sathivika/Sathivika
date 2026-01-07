@@ -1,12 +1,16 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4A1FF&background=CAFF8D00&center=true&vCenter=true&width=439&height=54&lines=Hi%2C+I'm+Sathivika+Pittala)](https://git.io/typing-svg)
+ <p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4A1FF&background=CAFF8D00&center=true&vCenter=true&width=439&height=54&lines=Hi%2C+I'm+Sathivika+Pittala" 
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
-  <b style="font-size:120px;">
+  <b style="font-size:20px;">
     Engineering Student at Usha Mittal Institute of Technology, SNDT <br>
     Minors in AR VR (Immersive Technology)
   </b>
 </p>
-
 
 
 <!--
