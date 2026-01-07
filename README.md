@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE359&background=CAFF8D00&width=435&lines=Hi%2C+I'm+Sathivika+Pittala)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE359&background=CAFF8D00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sathivika+Pittala)](https://git.io/typing-svg)
+
+Engineering Student at Usha Mittal Institute of Technology, SNDT  |  Minors in AR VR (Immersive Technology)
+
 
 <!--
 **Sathivika/Sathivika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
