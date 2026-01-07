@@ -1,4 +1,3 @@
-<img src="White and Black Illustrative LinkedIn Banner.png"  width="100%" alt="Sathivika Pittala Banner" />
 
  <p align="center">
   <img 
@@ -14,6 +13,7 @@
   </b>
 </p>
 
+<img src="White and Black Illustrative LinkedIn Banner.png"  width="100%" alt="Sathivika Pittala Banner" />
 
 
 
