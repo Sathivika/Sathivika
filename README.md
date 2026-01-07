@@ -12,6 +12,9 @@
   </b>
 </p>
 
+<img src="White and Black Illustrative LinkedIn Banner.png"  width="100%" alt="Sathivika Pittala Banner" />
+
+
 
 <!--
 **Sathivika/Sathivika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
