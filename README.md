@@ -1,3 +1,5 @@
+<img src="White and Black Illustrative LinkedIn Banner.png"  width="100%" alt="Sathivika Pittala Banner" />
+
  <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4A1FF&background=CAFF8D00&center=true&vCenter=true&width=439&height=54&lines=Hi%2C+I'm+Sathivika+Pittala" 
@@ -12,7 +14,6 @@
   </b>
 </p>
 
-<img src="White and Black Illustrative LinkedIn Banner.png"  width="100%" alt="Sathivika Pittala Banner" />
 
 
 
